@@ -5,7 +5,8 @@ Indicators from Island Security Research's investigation into the
 cross-platform remote access trojan (RAT) through malicious npm dependency
 chains wired into credible-looking public GitHub repositories.
 
-Companion to **How Attackers Built Software an AI Would Recommend**.
+Companion to [How Attackers Built Software an AI Would Recommend](https://www.island.io/blog/how-attackers-built-software-an-ai-would-recommend).
+
 
 The name MicrosoftSystem64 comes from the persistence identity used by the
 malware across Windows, macOS, and Linux. It is unrelated to Microsoft
